@@ -165,6 +165,10 @@ li {
   font-weight: 300;
 }
 
+.players-container {
+    margin: 100px 0;
+}
+
 .player-inputs input {
   padding: 8px;
   font-size: 16px;
